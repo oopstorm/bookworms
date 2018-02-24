@@ -29,3 +29,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### 信息系统项目管理师教程（第3版） | [无评分](https://book.douban.com/subject/27167826/)
+
+官方教材，2017最新改版，全面抄袭PMBOK第五版。
