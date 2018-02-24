@@ -29,3 +29,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### Web安全深度剖析 | [8.9](https://book.douban.com/subject/26348894/)
+
+系统性了解web安全，安全基础，常见的安全问题，攻防方式。
