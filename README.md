@@ -43,3 +43,16 @@ Spring 3.0引入了众多Java开发者翘首以盼的新功能和新特性，如
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
 比较透彻的讲解了 JVM，可以通读一遍之后作为速查手册
+
+### Spring Cloud微服务实战 | [7.5](https://book.douban.com/subject/27025912/)
+
+《Spring Cloud微服务实战》适合所有Java开发人员，尤其适合正在做微服务架构技术选型或正在实施微服务架构的团队查阅和参考。
+
+
+### 微服务架构与实践 | [4.9](https://book.douban.com/subject/26693152/)
+
+本书首先从理论出发，介绍了微服务架构的概念、诞生背景、本质特征以及优缺点
+
+### Java 8实战 | [9.1](https://book.douban.com/subject/26772632/)
+
+本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
