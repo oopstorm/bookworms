@@ -71,3 +71,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [用户体验要素](https://github.com/oopstorm/bookworms/issues/13) | [8.4](https://book.douban.com/subject/6523997/)
 
 诠释了设计、技术和商业融合是最重要的发展趋势。
+
+### [MyBatis从入门到精通](http://product.dangdang.com/25098208.html) 
+
+给你一个更灵活的持久层体验
