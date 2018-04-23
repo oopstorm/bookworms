@@ -1,5 +1,9 @@
 # bookworms
 
+### Angular5 高级编程 | [无评分]
+
+图书内容已跟进到 Angular 5，能助你快速学习 Angular 框架的新版，充分利用新框架的强大功能。
+
 ### [代码整洁之道](https://github.com/oopstorm/bookworms/issues/7) | [8.6](https://book.douban.com/subject/4199741/)
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
@@ -71,7 +75,3 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [用户体验要素](https://github.com/oopstorm/bookworms/issues/13) | [8.4](https://book.douban.com/subject/6523997/)
 
 诠释了设计、技术和商业融合是最重要的发展趋势。
-
-### Angular5 高级编程 | [无评分]
-
-图书内容已跟进到 Angular 5，能助你快速学习 Angular 框架的新版，充分利用新框架的强大功能。
