@@ -72,3 +72,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 信息系统项目管理师教程（第3版） | [无评分](https://book.douban.com/subject/27167826/)
 
 官方教材，2017最新改版，全面抄袭PMBOK第五版。
+
+### 深入实践Spring Boot | [5.8](https://book.douban.com/subject/26968640/)
+
+本书是Spring Boot领域的经典著作，从技术、实践和原理3个维度对Spring Boot进行了系统且深入的讲解。
