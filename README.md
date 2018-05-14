@@ -73,7 +73,7 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
 
-### [Web安全深度剖析](https://github.com/oopstorm/bookworms/issues/10) | [7.6](https://book.douban.com/subject/26348894/)
+### [Web安全深度剖析](https://github.com/oopstorm/bookworms/issues/10) | [7.6](https://book.douban.com/subject/26348894/)|[心得](https://github.com/oopstorm/bookworms/issues/10)
 
 系统性了解web安全，安全基础，常见的安全问题，攻防方式。
 
