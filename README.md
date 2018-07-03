@@ -86,6 +86,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
+### 时间简史 | [9.1](https://book.douban.com/subject/1257217/)
+
+史蒂芬·霍金的《时间简史》在1998年首版以来的岁月里，已成为全球科学著作的里程碑。
+
 ### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
