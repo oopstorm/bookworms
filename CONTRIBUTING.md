@@ -9,35 +9,35 @@
 
 1. 编写 Markdown 文件，并放置到 oopstorm/oopstorm.github.io/source/_posts 中
 
-	文件起名为：年-月-日-书名.md
-	例：2018-07-05-NPDP.md
+		文件起名为：年-月-日-书名.md
+		例：2018-07-05-NPDP.md
 
 2. 需要在头部设置文章属性
 
-	// 文章属性设置方法
-	在 Markdown 文件头部加入以下文本即可
-	layout: 文章默认填写 pages
-	title: 文章标题，未设置 title 会显示 [Untitled Post]
-	date: 支持年月日时分秒
-	tags: 文章标签，用于文章分类，可设置多个，例：
-	tags: [前端,Angular]
-	读书笔记的标签为必填，tag 为 bookworms
+		// 文章属性设置方法
+		在 Markdown 文件头部加入以下文本即可
+		layout: 文章默认填写 pages
+		title: 文章标题，未设置 title 会显示 [Untitled Post]
+		date: 支持年月日时分秒
+		tags: 文章标签，用于文章分类，可设置多个，例：
+		tags: [前端,Angular]
+		读书笔记的标签为必填，tag 为 bookworms
 
-	例：
+		例：
 
-	---
-	layout: pages
-	title: 七周其语言：理解多种编程泛型
-	date: 2018.04.04
-	tags: bookworms
-	---
+		---
+		layout: pages
+		title: 七周其语言：理解多种编程泛型
+		date: 2018.04.04
+		tags: bookworms
+		---
 
 3. 在内容中写上书名、豆瓣评分、链接、以及 bookworms 中的简评
 
-	例：
-	### 七周七语言：理解多种编程泛型 | [8.1](https://book.douban.com/subject/10555435/)
+		例：
+		### 七周七语言：理解多种编程泛型 | [8.1](https://book.douban.com/subject/10555435/)
 	
-	`七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
+		`七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
 
 
 ## 0x01
