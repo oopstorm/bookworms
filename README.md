@@ -33,11 +33,6 @@
 
 本书根据ES2017标准，详尽介绍了所有新增的语法，对基本概念、设计目的和用法进行了清晰的讲解，给出了大量简单易懂的示例。
 
-### Go语言编程  | [7.1](https://book.douban.com/subject/11577300/)
-
-本书首先引领读者快速浏览 Go 语言的全貌，迅速消除读者对这门语言的陌生感，然后循序渐进地介绍了 Go 语言的面向过程和面向对象的编程语法，其中穿插了一些与其他主流语言的比较以让读者理解 Go 语言的设计动机，接着探讨了 Go 语言最为重要的并行编程方法，之后介绍了网络编程、工程管理、安全编程、开发工具等非语法相关但非常重要的内容，最后为一系列关于 Go 语言的文章，可以帮助读者更深入了解这门全新的语言。
-本书适合所有层次的开发者阅读。
-
 ### [Head First Design Patterns](https://github.com/oopstorm/oopstorm.github.io/issues/9) | [9.1](https://book.douban.com/subject/1400656/)
 
 Head First 系列主打通俗易懂，适合入门选择。
@@ -51,10 +46,6 @@ Head First 系列主打通俗易懂，适合入门选择。
 ### [Java 8实战](https://github.com/oopstorm/oopstorm.github.io/issues/42) | [9.1](https://book.douban.com/subject/26772632/)
 
 本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
-
-### JavaScript模式 | [8.7](https://book.douban.com/subject/11506062/)
-
-《JavaScript模式》包含了实现每个讨论的模式的实践建议，并附有数个可以立即上手的范例。同时还可以学到一些反模式，一些常见的编程方式，这些编程方式引发的问题比解决的还多。它不是一本入门级的书，而是适用于希望将自身的Javascript技巧提高到一个新层次的专业的开发人员和程序员。
 
 ### JavaScript权威指南 | [8.8](https://book.douban.com/subject/10549733/)
 
@@ -122,13 +113,13 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
-### Tensorflow：实战Google深度学习框架 | [8.4](https://book.douban.com/subject/26976457/)
-
-《Tensorflow实战》为使用TensorFlow深度学习框架的入门参考书，旨在帮助读者以最快、最有效的方式上手TensorFlow和深度学习。书中省略了深度学习繁琐的数学模型推导，从实际应用问题出发，通过具体的TensorFlow样例程序介绍如何使用深度学习解决这些问题。
-
 ### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
+
+### 影响力 | [8.6](https://book.douban.com/subject/1786387/)
+
+政治家运用影响力来赢得选举，商人运用影响力来兜售商品，推销员运用影响力诱惑你乖乖地把金钱捧上。即使你的朋友和家人，不知不觉之间，也会把影响力用到你的身上。但到底是为什么，当一个要求用不同的方式提出来时，你的反应就会从负面抵抗变成积极合作呢？
 
 ### [用户体验要素](https://github.com/oopstorm/oopstorm.github.io/issues/10) | [8.4](https://book.douban.com/subject/6523997/)
 
@@ -147,4 +138,3 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
-
