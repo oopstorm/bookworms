@@ -126,4 +126,3 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
-
