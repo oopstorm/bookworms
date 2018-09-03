@@ -46,6 +46,7 @@ Head First 系列主打通俗易懂，适合入门选择。
 ### JavaScript模式 | [8.7](https://book.douban.com/subject/11506062/)
 
 《JavaScript模式》包含了实现每个讨论的模式的实践建议，并附有数个可以立即上手的范例。同时还可以学到一些反模式，一些常见的编程方式，这些编程方式引发的问题比解决的还多。它不是一本入门级的书，而是适用于希望将自身的Javascript技巧提高到一个新层次的专业的开发人员和程序员。
+
 ### 精通Spring 4.x企业应用开发实战 | [8.5](https://book.douban.com/subject/26952826/)
 
 Spring 4.0是Spring在积蓄4年后，隆重推出的一个重大升级版本，进一步加强了Spring作为Java领域第一开源平台的翘楚地位。
