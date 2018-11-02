@@ -122,6 +122,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 `XX in Action` 系列，中文版一般名为 《XX 实战》，深入浅出，可以用来 Spring 入门及夯实基础概念，作用仅次于 Spring 官方文档
 
+### Spring Data JPA从入门到精通 | [7.8](https://book.douban.com/subject/30255927/)
+
+《Spring Data JPA从入门到精通》以Spring Boot为技术基础，从入门到精通，由浅入深地介绍Spring Data JPA的使用。有语法，有实践，有原理剖析。 《Spring Data JPA从入门到精通》分为12章，内容包括整体认识JPA、JPA基础查询方法、定义查询方法、注解式查询方法、@Entity实例里面常用注解详解、JpaRepository扩展详解、JPA的MVC扩展REST支持、DataSource的配置、乐观锁、SpEL表达式在Spring Data里面的应用、Spring Data Redis实现cacheable的实践、IntelliJ IDEA加快开发效率、Spring Data REST简单介绍等。 《Spring Data JPA从入门到精通》适合Java开发初学者、Java开发工程师、Java开发架构师阅读，也适合高等院校和培训学校相关专业的师生教学参考。
+
 ### 三体 | [9.3](https://book.douban.com/subject/6518605/)
 
 名副其实，黑暗森林法则、降维打击等基本成为了通用词汇
@@ -175,3 +179,5 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
+
+
