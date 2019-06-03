@@ -1,4 +1,4 @@
-﻿# bookworms
+# bookworms
 
 ### About Face 4: 交互设计精髓 | [8.5](https://book.douban.com/subject/26642302/)
 
@@ -7,6 +7,10 @@
 ### 把时间当作朋友 | [8.5](https://book.douban.com/subject/3609132/)
 
 时间对每个人都是一样的，通过管理自己，开启心智，与时间做朋友吧
+
+### 产品的视角 | [7.6](https://book.douban.com/subject/26697007/)
+
+本书在创造性的提出互联网产品定义的基础上，为读者提供了一个从0基础到产品操盘手的产品思维培养方法！
 
 ### 产品经理认证（NPDP）知识体系指南 | [7.2](https://book.douban.com/subject/27048727/)
 
@@ -20,13 +24,39 @@
 
 这本书呈现的是一种更好、更简单的经商成功之道。读完这本书，你就会明白为什么计划实际上百害而无一益，为什么你不需要外界投资人，为什么将竞争视而不见反倒会发展得更好。事实是你所需要的比你想象的少得多。你不必成为工作狂，你不必大量招兵买马，你不必把时间浪费在案头工作和会议上，你甚至不必拥有一间办公室。所有这些都仅仅是借口！
 
+<<<<<<< HEAD
+=======
+### 从Paxos到Zookeeper：分布式一致性原理与实践 | [7.8](https://book.douban.com/subject/26292004/)
+
+从分布式一致性的理论出发，向读者简要介绍几种典型的分布式一致性协议，以及解决分布式一致性问题的思路，其中重点讲解了Paxos和ZAB协议。
+
+>>>>>>> d5b3cf0bded4c64891e387d8be220c144967bb49
 ### devops故障排除：linux服务器运维最佳实践 | [7.0](https://book.douban.com/subject/25909819/)
 
 《devops故障排除：linux服务器运维最佳实践》首先介绍了故障排除中要掌握的基本方法和原则，然后针对linux系统中的常见问题，逐个分析故障原因并给出故障排除方法，这些问题包括服务器运行缓慢、系统无法启动、不能写入磁盘、服务器宕机、主机名无法解析、web服务器宕机、数据库运行缓慢等，最后还简单介绍了常见的硬件问题。
 
+<<<<<<< HEAD
+=======
+### 大脑使用说明书 | [7.1](https://book.douban.com/subject/1319820/)
+
+本书将通过神奇的思维导图，帮助人们的大脑释放出令人难以置信的潜在的想象力和联想能力
+
+### 大数据技术原理与应用 | [9.4](https://book.douban.com/subject/26665728/)
+
+本书定位为大数据技术入门教材，为读者搭建起通向“大数据知识空间”的桥梁和纽带。
+
+>>>>>>> d5b3cf0bded4c64891e387d8be220c144967bb49
 ### 代码整洁之道 | [8.6](https://book.douban.com/subject/4199741/)
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
+
+### Django By Example | [9.5](https://book.douban.com/subject/26679450/)
+
+Learn Django by building four fully-functional, real-world web applications from scratch
+
+Develop powerful web applications quickly using the best coding practices
+
+Integrate other technologies into your application with clear, step-by-step explanations and comprehensive example code
 
 ### Effective java 中文版 | [9.1](https://book.douban.com/subject/3360807/)
 
@@ -48,9 +78,22 @@ Head First 系列主打通俗易懂，适合入门选择。
 本书也是图文并茂的介绍了各种设计模式，并配有使用示例，对各种设计模式会有一个较为直观的印象。
 推荐看英文版，很厚，但多图且英文词汇比较简单，看完之后会极大增强阅读英文文档自信心
 
-### 黑客与画家 | [8.9](https://book.douban.com/subject/25724948/)
+### Head First SQL | [8.4](https://book.douban.com/subject/2334295/)
 
-空缺，读过之后再评价
+Head First SQL是关于RDBMS（数据库），特别是mySQL（5.0或更新版本），包括其他数据库的功能。
+本书侧重于数据库的基础知识。
+
+### How Tomcat Works | [8.4](https://book.douban.com/subject/10426640/)
+
+工欲善其事，必先利其器，虽然讲解的版本比较老，但本质的东西是一样的
+
+### [黑客与画家](https://oopstorm.github.io/2018/10/15/2018-10-15-hackers-and-painters/) | [8.8](https://book.douban.com/subject/6021440/)
+
+看似无关的两个职业，却有着极大的相似性。匠人精神是每个行业都需要的。黑客、财富、创业、设计、编程语言，从不同角度体验信息时代带来的变革。
+
+### Ionic移动开发入门与实战
+
+Ionic是目前集流行与成熟两个特点于一身的跨平台移动开发框架。本书以实例驱动讲解的方式，让仅有简单网页制作基础知识的读者，也能轻松掌握Ionic3.X下的移动应用开发。
 
 ### [Java 8实战](https://github.com/oopstorm/oopstorm.github.io/issues/42) | [9.1](https://book.douban.com/subject/26772632/)
 
@@ -102,9 +145,19 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。
 他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。
 
+### Selenium 2自动化测试实战 | [8.2](https://book.douban.com/subject/26713240/)
+
+《Selenium 2自动化测试实战——基于Python语言》共分 14 章。第 1 章是自动化测试相关基础知识的介绍；第 2 章到第 10 章是《Selenium 2自动化测试实战——基于Python语言》的重点，循 序渐进地介绍了自动化测试所用到的技术；第 11 章通过一个具体的项目综合运用了前面章节所介绍 的技术与技巧；第 12 章到第 14 章选取了当前最热门的技术进行了介绍，旨在扩展测试人员的综合技 术能力。 《Selenium 2自动化测试实战——基于Python语言》的写作目的并不是为了简单地告诉读者如何使用一个自动化测试工具，而是希望读者在学习
+
+《Selenium 2自动化测试实战——基于Python语言》的内容后能够提高综合的技术高度与宽度，从而摆脱简单的手工测试，向高级测试工程师的道路 迈进。
+
 ### Spring Cloud微服务实战 | [7.5](https://book.douban.com/subject/27025912/)
 
 《Spring Cloud微服务实战》适合所有Java开发人员，尤其适合正在做微服务架构技术选型或正在实施微服务架构的团队查阅和参考。
+
+### Spring Data JPA从入门到精通 | [7.8](https://book.douban.com/subject/30255927/)
+
+《Spring Data JPA从入门到精通》以Spring Boot为技术基础，从入门到精通，由浅入深地介绍Spring Data JPA的使用。有语法，有实践，有原理剖析。 《Spring Data JPA从入门到精通》分为12章，内容包括整体认识JPA、JPA基础查询方法、定义查询方法、注解式查询方法、@Entity实例里面常用注解详解、JpaRepository扩展详解、JPA的MVC扩展REST支持、DataSource的配置、乐观锁、SpEL表达式在Spring Data里面的应用、Spring Data Redis实现cacheable的实践、IntelliJ IDEA加快开发效率、Spring Data REST简单介绍等。 《Spring Data JPA从入门到精通》适合Java开发初学者、Java开发工程师、Java开发架构师阅读，也适合高等院校和培训学校相关专业的师生教学参考。
 
 ### Spring in Action | [7.8](https://book.douban.com/subject/24830012/)
 
@@ -113,6 +166,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 三体 | [9.3](https://book.douban.com/subject/6518605/)
 
 名副其实，黑暗森林法则、降维打击等基本成为了通用词汇
+
+### 设计心理学1：日常的设计 | [8.5](https://book.douban.com/subject/26102860/)
+
+ 唐纳德.诺曼博士在《设计心理学》增订版里，始终强调以人为本的设计哲学，将认知心理学和行为学等多学科的方法导入到设计之中。
 
 ### 深入理解Java虚拟机：JVM高级特性与最佳实践 | [8.9](https://book.douban.com/subject/24722612/)
 
@@ -126,6 +183,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。
 
+### [数学之美](https://github.com/oopstorm/oopstorm.github.io/issues/73) | [8.9](https://book.douban.com/subject/26163454/)
+
+数学与计算机有着密不可分的联系，上学时经常会想学数学有什么用，工作一段时间后，不妨回过头来再细细品味一下数学之美
+
 ### Tensorflow：实战Google深度学习框架 | [8.4](https://book.douban.com/subject/26976457/)
 
 《Tensorflow实战》为使用TensorFlow深度学习框架的入门参考书，旨在帮助读者以最快、最有效的方式上手TensorFlow和深度学习。书中省略了深度学习繁琐的数学模型推导，从实际应用问题出发，通过具体的TensorFlow样例程序介绍如何使用深度学习解决这些问题。
@@ -133,6 +194,18 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### [图解 HTTP](https://github.com/oopstorm/oopstorm.github.io/issues/7) | [8.1](https://book.douban.com/subject/25863515/)
 
 通俗易懂，深入浅出对 HTTP 协议进行了全面系统的介绍
+
+### Unity3D手机游戏开发 | [7.6](https://book.douban.com/subject/25704613/)
+
+unity，也称unity3d，是近几年非常流行的一个3d游戏开发引擎，跨平台能力强，使用它开发的手机游戏数不胜数。
+
+《unity3d手机游戏开发》通过三个部分循序渐进地介绍了unity在游戏开发方面的不同功能。第1-5章，由零开始，引导读者从基本的操作到完成三个完整的游戏实例，使读者对unity游戏开发有一个较全面的认识。第6-7章，重点介绍了unity在网络方面的应用。第8-10章介绍了如何将unity游戏移植到网页、ios和android平台。另外，本书最后附有c#语言的快速教程，帮助缺乏程序开发基础的读者快速入门。
+
+《unity3d手机游戏开发》适合广大游戏开发人员，也面向游戏开发爱好者、软件培训机构，以及计算机专业的学生等。
+
+### 影响力 | [8.6](https://book.douban.com/subject/1786387/)
+
+政治家运用影响力来赢得选举，商人运用影响力来兜售商品，推销员运用影响力诱惑你乖乖地把金钱捧上。即使你的朋友和家人，不知不觉之间，也会把影响力用到你的身上。但到底是为什么，当一个要求用不同的方式提出来时，你的反应就会从负面抵抗变成积极合作呢？
 
 ### [用户体验要素](https://github.com/oopstorm/oopstorm.github.io/issues/10) | [8.4](https://book.douban.com/subject/6523997/)
 
@@ -151,4 +224,3 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 ### 在你身边，为你设计 | [7.2](https://book.douban.com/subject/20471302/)
 
 本书是腾讯核心部门之一CDC的设计经验总结和分享。
-
