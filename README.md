@@ -44,6 +44,14 @@
 
 如果你需要写代码，建议都先看一下，对编码习惯有极大的正面影响
 
+### Django By Example | [9.5](https://book.douban.com/subject/26679450/)
+
+Learn Django by building four fully-functional, real-world web applications from scratch
+
+Develop powerful web applications quickly using the best coding practices
+
+Integrate other technologies into your application with clear, step-by-step explanations and comprehensive example code
+
 ### Effective java 中文版 | [9.1](https://book.douban.com/subject/3360807/)
 
 本书介绍了在Java编程中78条极具实用价值的经验规则，这些经验规则涵盖了大多数开发人员每天所面临的问题的解决方案。通过对Java平台设计专家所使用的技术的全面描述，揭示了应该做什么，不应该做什么才能产生清晰、健壮和高效的代码。
