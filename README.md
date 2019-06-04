@@ -77,11 +77,11 @@ Head First 系列主打通俗易懂，适合入门选择。
 Head First SQL是关于RDBMS（数据库），特别是mySQL（5.0或更新版本），包括其他数据库的功能。
 本书侧重于数据库的基础知识。
 
-### How Tomcat Works | [8.4](https://book.douban.com/subject/10426640/)
+### [How Tomcat Works](https://github.com/oopstorm/oopstorm.github.io/issues/78) | [8.4](https://book.douban.com/subject/10426640/)
 
 工欲善其事，必先利其器，虽然讲解的版本比较老，但本质的东西是一样的
 
-### [黑客与画家](https://oopstorm.github.io/2018/10/15/2018-10-15-hackers-and-painters/) | [8.8](https://book.douban.com/subject/6021440/)
+### [黑客与画家](https://github.com/oopstorm/oopstorm.github.io/issues/71) | [8.8](https://book.douban.com/subject/6021440/)
 
 看似无关的两个职业，却有着极大的相似性。匠人精神是每个行业都需要的。黑客、财富、创业、设计、编程语言，从不同角度体验信息时代带来的变革。
 
@@ -92,6 +92,10 @@ Ionic是目前集流行与成熟两个特点于一身的跨平台移动开发框
 ### [Java 8实战](https://github.com/oopstorm/oopstorm.github.io/issues/42) | [9.1](https://book.douban.com/subject/26772632/)
 
 本书全面介绍了Java 8 这个里程碑版本的新特性，包括Lambdas、流和函数式编程。有了函数式的编程特性，可以让代码更简洁，同时也能自动化地利用多核硬件
+
+### Java 性能权威指南 | [8.1](https://book.douban.com/subject/26740520/)
+
+软件运行性能是一个不可回避的问题。本书内容较新，包含 G1 回收器相关内容，读过之后再来评价
 
 ### JavaScript模式 | [8.7](https://book.douban.com/subject/11506062/)
 
