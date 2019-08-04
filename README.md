@@ -131,6 +131,10 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 适合对OpenStack茫然的初学者，以及有一定使用部署经验但是希望了解OpenStack实现原理的广大用户。
 
+### Python 3网络爬虫开发实战 | [9.0](https://book.douban.com/subject/30175598/)
+
+本书介绍了如何利用Python 3开发网络爬虫，书中首先介绍了环境配置和基础知识，然后讨论了urllib、requests、正则表达式、Beautiful Soup、XPath、pyquery、数据存储、Ajax数据爬取等内容，接着通过多个案例介绍了不同场景下如何实现数据爬取，后介绍了pyspider框架、Scrapy框架和分布式爬虫。
+
 ### [七周七语言：理解多种编程泛型](https://github.com/oopstorm/oopstorm.github.io/issues/8) | [8.1](https://book.douban.com/subject/10555435/)
 
 `七周七` 系列，可用来打破某种具体编程语言的局限性，发散思维
